@@ -1,0 +1,29 @@
+{
+  "name": "notes-front-end",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.4.1",
+    "@heroicons/vue": "^1.0.4",
+    "@tailwindcss/aspect-ratio": "^0.2.1",
+    "@tailwindcss/forms": "^0.3.3",
+    "axios": "^0.22.0",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^12.1.0",
+    "vue": "^3.2.16",
+    "vue-axios": "^3.3.7",
+    "vue-router": "^4.0.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.2",
+    "autoprefixer": "^10.3.6",
+    "postcss": "^8.3.8",
+    "sass": "^1.39.0",
+    "tailwindcss": "^2.2.16",
+    "vite": "^2.6.0"
+  }
+}
