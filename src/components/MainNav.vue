@@ -16,8 +16,6 @@
           class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start"
         >
           <div class="flex-shrink-0 flex items-center">
-            <!-- <img class="block lg:hidden h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-mark-indigo-500.svg" alt="Workflow" />
-            <img class="hidden lg:block h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-logo-indigo-500-mark-white-text.svg" alt="Workflow" /> -->
             <div class="h-8 w-32">
               <Logo />
             </div>
@@ -174,6 +172,6 @@ export default {
 <style scoped>
 a.router-link-active {
   @apply text-white;
-  @apply bg-gray-900;
+  @apply bg-green-700;
 }
 </style>
